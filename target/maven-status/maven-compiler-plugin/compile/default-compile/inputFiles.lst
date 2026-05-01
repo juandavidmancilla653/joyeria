@@ -1,4 +1,12 @@
 C:\Users\LENOVO T440\joyeria\src\main\java\com\joyeria\App.java
 C:\Users\LENOVO T440\joyeria\src\main\java\com\joyeria\Conexion\Conexion.java
+C:\Users\LENOVO T440\joyeria\src\main\java\com\joyeria\controlador\ControladorTercero.java
+C:\Users\LENOVO T440\joyeria\src\main\java\com\joyeria\dao\DetalleVentaDAO.java
+C:\Users\LENOVO T440\joyeria\src\main\java\com\joyeria\dao\ProductoDAO.java
 C:\Users\LENOVO T440\joyeria\src\main\java\com\joyeria\dao\TerceroDAO.java
+C:\Users\LENOVO T440\joyeria\src\main\java\com\joyeria\dao\VentaDAO.java
+C:\Users\LENOVO T440\joyeria\src\main\java\com\joyeria\modelo\DetalleVenta.java
+C:\Users\LENOVO T440\joyeria\src\main\java\com\joyeria\modelo\Producto.java
 C:\Users\LENOVO T440\joyeria\src\main\java\com\joyeria\modelo\Tercero.java
+C:\Users\LENOVO T440\joyeria\src\main\java\com\joyeria\modelo\Venta.java
+C:\Users\LENOVO T440\joyeria\src\main\java\com\joyeria\vista\VistaTercero.java
